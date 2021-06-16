@@ -1,0 +1,1 @@
+{dataGridView.Rows[i].Cells[j].Value.ToString()}{dataGridView.Rows[i].Cells[j].Value.ToString()}{dataGridView.Rows[i].Cells[j].Value.ToString()}{dataGridView.Rows[i].Cells[j].Value.ToString()}{dataGridView.Rows[i].Cells[j].Value.ToString()}{dataGridView.Rows[i].Cells[j].Value.ToString()},
